@@ -12,6 +12,3 @@ tags:
  - demo
 ---
 fdsa中文
-
-
-{% site.related_posts %}

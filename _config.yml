@@ -25,11 +25,12 @@ github_username:  jxva
 # Build settings
 markdown: kramdown
 theme: minima
-gems: [jekyll-feed, jekyll-paginate]
-paginate: 2
+gems: [jekyll-feed] 
+#, jekyll-paginate]
+#paginate: 2
 sass:
     style: :compressed
-    
+
 exclude:
   - Gemfile
   - Gemfile.lock
