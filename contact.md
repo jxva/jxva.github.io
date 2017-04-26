@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: Contact
+permalink: /contact/
+---
 
 <ul>
 {% for member in site.data.members %}

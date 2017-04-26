@@ -28,8 +28,8 @@ theme: minima
 gems: [jekyll-feed] 
 #, jekyll-paginate]
 #paginate: 2
-sass:
-    style: :compressed
+#sass:
+#    style: :compressed
 
 exclude:
   - Gemfile
